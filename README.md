@@ -62,6 +62,33 @@
 
 <h2>Pages</h2>
 
+<h3>Home Page</h3>
+<img src="./img/home-page.jpg">
+<h3>About Page</h3>
+<img src="./img/about-page.jpg">
+<h3>Menu Page</h3>
+<img src="./img/menu-page.jpg">
+<h3>Order Page</h3>
+<img src="./img/order-page.jpg">
+<h3>Account Page</h3>
+<img src="./img/account-page.jpg">
+<h3>Register Page</h3>
+<img src="./img/register-page.jpg">
+<h3>Login Page</h3>
+<img src="./img/login-page.jpg">
+<h3>Admin Panel Home Page</h3>
+<img src="./img/admin-home-page.png">
+<h3>Admin Panel Model Listing Page</h3>
+<img src="./img/admin-model-list.png">
+<h3>Admin Panel Model Form Page</h3>
+<img src="./img/admin-model-form.png">
+<h3>Admin Panel Model Delete Page</h3>
+<img src="./img/admin-delete-page.jpg">
+<h3>Admin Panel Model History Page</h3>
+<img src="./img/admin-model-history.jpg">
+<h3>Admin Panel Account Permissions Page</h3>
+<img src="./img/admin-account-permissions.jpg">
+
 <h2>Repositories</h2>
 
 <p><a href="https://github.com/ivancekikj/PizzaPath-CustomerApp/">Customer App</a></p>
